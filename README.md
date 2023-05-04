@@ -24,23 +24,25 @@ This is a web based application developed for DentaL health related website deve
 
 # Homepage
 
-![Screenshot (311)](https://user-images.githubusercontent.com/106873514/236020586-e4790b53-eb96-4b25-bbe3-a15ec6b729ce.png)
+![Screenshot (318)](https://user-images.githubusercontent.com/106873514/236250559-3ad9562a-ad32-42b0-9d8d-cb96e9712ebc.png)
+
 
 # About US
 
-![Screenshot (312)](https://user-images.githubusercontent.com/106873514/236020894-18ed35fe-1d61-45bb-b100-1e5c27e8d3f7.png)
+![Screenshot (319)](https://user-images.githubusercontent.com/106873514/236250761-e06b1efc-5543-4974-a127-20e1249e8f73.png)
 
 # Services
 
-![Screenshot (313)](https://user-images.githubusercontent.com/106873514/236021064-1d7278ab-ff43-4031-812f-b9b5d666a074.png)
+![Screenshot (320)](https://user-images.githubusercontent.com/106873514/236250943-76b0e3fb-1fbd-46fb-ab01-a938dbf27b20.png)
 
 # Gallery
 
-![Screenshot (314)](https://user-images.githubusercontent.com/106873514/236021345-d858b422-21ca-4704-b844-d5e941939bfc.png)
+![Screenshot (321)](https://user-images.githubusercontent.com/106873514/236251191-6e18a85c-5e03-4f11-9770-5b50cf37328a.png)
+![Screenshot (322)](https://user-images.githubusercontent.com/106873514/236251470-1e1d0cc1-5816-4616-810e-6375302bc87f.png)
 
 # Blog
 
-![Screenshot (315)](https://user-images.githubusercontent.com/106873514/236021489-9729469a-335d-41a4-9a4c-79a5a828315b.png)
+![Screenshot (323)](https://user-images.githubusercontent.com/106873514/236251679-e7464a43-6002-45dc-887f-0294364373b0.png)
 
 # Dental_bot
 
