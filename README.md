@@ -26,7 +26,6 @@ This is a web based application developed for DentaL health related website deve
 
 ![Screenshot (318)](https://user-images.githubusercontent.com/106873514/236250559-3ad9562a-ad32-42b0-9d8d-cb96e9712ebc.png)
 
-
 # About US
 
 ![Screenshot (319)](https://user-images.githubusercontent.com/106873514/236250761-e06b1efc-5543-4974-a127-20e1249e8f73.png)
