@@ -4,7 +4,7 @@ This is a web based application developed for DentaL health related website deve
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skill Prime, MS Learn, Github and EY.
 
 ## Project Link - https://white-glacier-044f13e00.3.azurestaticapps.net/
-## Project Demo Link - 
+## Project Demo Link - https://youtu.be/bkDL_wvv1mA
 
 # Azure Technologies Used In Project:
 - Static Web App
